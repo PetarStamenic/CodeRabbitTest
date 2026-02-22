@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.loom.ThreadDemoControllerTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.077 s -- in com.example.loom.ThreadDemoControllerTest
